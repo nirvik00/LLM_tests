@@ -12,6 +12,7 @@ jupyterlab_git/labextension
 jupyterlab_git/_version.py
 src/version.ts
 
+faiss_index/
 vectorstores/
 
 llama-2-7b-chat.ggmlv3.q8_0.bin
